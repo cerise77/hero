@@ -55,7 +55,7 @@ article .author:last-child {
   margin-bottom: 0;
 }
 article:nth-of-type(1) {
-  background-image: url("./public/img/3b.jpg");
+  background-image: url("3b.jpg");
   background-color: #383838;
 }
 article:nth-of-type(2) {
