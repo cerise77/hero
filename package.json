@@ -1,26 +1,29 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.2.5",
-  "description": "A sample Node.js app using Express 4",
-  "engines": {
-    "node": "5.9.1"
-  },
+  "name": "hero",
+  "version": "1.0.0",
+  "description": "cools",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "ejs": "2.4.1",
-    "express": "4.13.3"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "git+https://github.com/cerise77/hero.git"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
+    "example",
+    "heroku"
   ],
-  "license": "MIT"
+  "engines": {
+    "node": "7.6.0"
+  },
+  "author": "cerise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerise77/hero/issues"
+  },
+  "homepage": "https://github.com/cerise77/hero#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
