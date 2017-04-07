@@ -55,7 +55,7 @@ article .author:last-child {
   margin-bottom: 0;
 }
 article:nth-of-type(1) {
-  background-image: url("3b.jpg");
+  background-image: url("img/3b.jpg");
   background-color: #383838;
 }
 article:nth-of-type(2) {
@@ -286,10 +286,10 @@ header nav li:last-child{
   }
 
   #p1 {
-    background-image: url(img/2a.jpg);
+    background-image: url("img/2a.jpg");
   }
   #p2 {
-    background-image: url(img/2b.jpg);
+    background-image: url("img/2b.jpg");
   }
   #p3 {
     background-image: url(img/2c.jpg);
