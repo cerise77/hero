@@ -69,14 +69,14 @@ article:nth-of-type(4) {
   background-image: url("img/2b.jpg");
 }
 article:nth-of-type(5) {
-  background-image: url("img/4a.jpg");
-  background-color: #555;
+  background-image: url("./img/4a.jpg");
+  /*background-color: #555;*/
 }
 article:nth-of-type(6) {
   background-image: url("img/4b.jpg");
 }
 article:nth-of-type(7) {
-  background-image: url("img/4c.jpg");
+  background-image: url("./img/4c.jpg");
   /*background-color: #555;*/
 }
 article:nth-of-type(8) {
